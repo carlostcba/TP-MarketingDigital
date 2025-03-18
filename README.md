@@ -45,8 +45,19 @@
 
 #### Código Fuente
 - **Estructura de encabezados**:
-  - El informe indica que "Los elementos de encabezado no están ordenados en una secuencia descendente"
-  - Esto sugiere problemas en la jerarquía de encabezados H1, H2, H3, etc.
+  - H3: "UNIVERSIDAD TECNOLÓGICA NACIONAL" (Encabezado principal usando H3 en lugar de H1)
+  - H4: "UTN: Educación Pública de Excelencia" (Subencabezado)
+  - H5: "76 años formando profesionales que el país y el mundo necesitan." (Contenido que debería ser párrafo, no H5)
+  - H4: "LA UTN HOY" (Mismo nivel que el primer H4)
+  - H4: "Campaña solidaria UTNxBAHÍA" (Mismo nivel que los H4 anteriores)
+  - H4: "CAMPOS DE ACCIÓN UNIVERSITARIA" (Mismo nivel que los H4 anteriores)
+  - H6: "SECRETARÍAS", "ENLACES UTN", "ENLACES EXTERNOS" (Subencabezados usando H6)
+  - **Problemas identificados**:
+    - No se utiliza H1 como encabezado principal (comienza con H3)
+    - Jerarquía desordenada (H3 → H4 → H5 → H4 → H6)
+    - Uso incorrecto de H5 para contenido que debería ser un párrafo
+    - Salto de H4 a H6 sin usar H5 intermedio
+  - El informe de PageSpeed confirma: "Los elementos de encabezado no están ordenados en una secuencia descendente"
 - **Meta tags**: Requiere análisis adicional
 - **Imágenes**: "Los elementos de imagen no tienen ningún atributo [alt]", lo que impacta negativamente en la accesibilidad y el SEO
 - **Tamaño del DOM**: Excesivo (832 elementos), lo que puede afectar al rendimiento
@@ -241,7 +252,11 @@
 - Optimizar imágenes (formatos modernos, compresión eficiente, dimensiones adecuadas)
 - Eliminar CSS y JavaScript no utilizados
 - Agregar atributos alt a todas las imágenes
-- Corregir la jerarquía de encabezados
+- Corregir la jerarquía de encabezados:
+  - Usar H1 para el título principal "UNIVERSIDAD TECNOLÓGICA NACIONAL"
+  - Establecer una estructura jerárquica clara (H1 → H2 → H3, etc.)
+  - Convertir el texto "76 años formando profesionales..." a un párrafo normal
+  - Reorganizar los encabezados secundarios con niveles apropiados
 - Mejorar el contraste de colores para accesibilidad
 - Implementar una política de caché eficaz
 - Agregar atributos width y height a las imágenes
