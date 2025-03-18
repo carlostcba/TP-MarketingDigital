@@ -1,9 +1,9 @@
 # Análisis Situacional - Entrega 1 del Trabajo Grupal Integrador
 
 ## Información del Grupo
-- **Grupo**: [Número/Nombre del Grupo]
+- **Grupo**: Numero 4
 - **Líder**: [Nombre del Líder]
-- **Cliente**: [Nombre del Cliente]
+- **Cliente**:  UTN
 
 ## Análisis Interno
 
@@ -272,7 +272,7 @@
 
 ### Metodología utilizada
 - **Herramientas de análisis**: [Lista de herramientas empleadas]
-- **Período de análisis**: [Fechas]
+- **Período de análisis**: 18-03-2025
 - **Limitaciones del estudio**: [Descripción]
 
 ### Referencias
