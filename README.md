@@ -81,44 +81,44 @@
 ### Auditoría de Redes Sociales
 
 #### Facebook
-- **Seguidores**: Aproximadamente 230,000
-- **Engagement rate**: 1.8%
+- **Seguidores**: 
+- **Engagement rate**:
 - **Frecuencia de publicación**: 3-4 veces por semana
 - **Tipo de contenido predominante**: Noticias institucionales, eventos académicos e información sobre carreras
 - **Calidad de las publicaciones**: Media-alta, con buena calidad de imágenes pero baja interacción
 
 #### Instagram
-- **Seguidores**: Aproximadamente 95,000
-- **Engagement rate**: 2.3%
+- **Seguidores**: 
+- **Engagement rate**:
 - **Frecuencia de publicación**: 2-3 veces por semana
 - **Hashtags utilizados**: Uso básico de hashtags institucionales (#UTN #UniversidadTecnológicaNacional)
 - **Estética del feed**: Poco consistente, mezcla de contenidos institucionales y estudiantiles
 - **Uso de Stories/Reels**: Uso limitado, principalmente para eventos específicos
 
 #### LinkedIn
-- **Seguidores**: Aproximadamente 180,000
-- **Engagement rate**: 3.1%
+- **Seguidores**: 
+- **Engagement rate**: 
 - **Frecuencia de publicación**: 2 veces por semana
 - **Tipo de contenido**: Orientado a logros académicos, vínculos empresariales y oportunidades laborales
 - **Perfil de empresa completo**: Sí, con información actualizada
 
 #### Twitter
-- **Seguidores**: Aproximadamente 45,000
-- **Engagement rate**: 1.2%
+- **Seguidores**: 
+- **Engagement rate**:
 - **Frecuencia de publicación**: 5-6 veces por semana
 - **Uso de hashtags**: Moderado, principalmente institucionales
 - **Interacción con la comunidad**: Baja, principalmente comunicación unidireccional
 
 #### TikTok
-- **Seguidores**: Aproximadamente 12,500
-- **Engagement rate**: 4.2%
+- **Seguidores**:
+- **Engagement rate**:
 - **Frecuencia de publicación**: 1 vez por semana
 - **Tendencias aprovechadas**: Limitadas, enfoque institucional más que en tendencias
 - **Calidad de producción**: Media, con oportunidades de mejora en creatividad y edición
 
 #### YouTube
-- **Suscriptores**: Aproximadamente 28,000
-- **Visualizaciones promedio**: 1,500 por video
+- **Suscriptores**: 
+- **Visualizaciones promedio**: 
 - **Frecuencia de publicación**: 1-2 videos mensuales
 - **Duración promedio de videos**: 8-12 minutos
 - **Optimización SEO en videos**: Básica, títulos descriptivos pero metadatos limitados
@@ -345,15 +345,15 @@
 
 ## Enlaces de redes sociales que han sido analizados
 
-- **Sitio web oficial**: [https://utn.edu.ar/es/](https://utn.edu.ar/es/)
-- **Facebook**: [https://www.facebook.com/UTNArgentina/](https://www.facebook.com/UTNArgentina/)
-- **Instagram**: [https://www.instagram.com/utnargentina/](https://www.instagram.com/utnargentina/)
-- **LinkedIn**: [https://www.linkedin.com/school/universidad-tecnologica-nacional/](https://www.linkedin.com/school/universidad-tecnologica-nacional/)
-- **Twitter/X**: [https://twitter.com/UTNargentina](https://twitter.com/UTNargentina)
-- **YouTube**: [https://www.youtube.com/user/UTNArgentina](https://www.youtube.com/user/UTNArgentina)
-- **TikTok**: [https://www.tiktok.com/@utnargentina](https://www.tiktok.com/@utnargentina)
+- **Sitio web oficial**:
+- **Facebook**:
+- **Instagram**: 
+- **LinkedIn**: 
+- **Twitter/X**: 
+- **YouTube**:
+- **TikTok**:
 
-#### Algunas Facultades Regionales (para análisis complementario)
+### Algunas Facultades Regionales (para análisis complementario)
 
 - **UTN Buenos Aires (FRBA)**:
   - Web: [https://www.frba.utn.edu.ar/](https://www.frba.utn.edu.ar/)
